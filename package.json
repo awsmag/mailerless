@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/singhs020/Mailerless/issues"
   },
-  "homepage": "https://github.com/singhs020/Mailerless#readme"
+  "homepage": "https://github.com/singhs020/Mailerless#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-shell": "^0.8.0",
+    "mocha": "^7.1.0",
+    "nyc": "^15.0.0"
+  }
 }
