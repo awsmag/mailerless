@@ -1,1 +1,5 @@
-// Add event details here
+async function handleEvent(event) {
+  return;
+}
+
+module.exports = {handleEvent};
