@@ -27,5 +27,8 @@
     "gulp-shell": "^0.8.0",
     "mocha": "^7.1.1",
     "nyc": "^15.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.643.0"
   }
 }
