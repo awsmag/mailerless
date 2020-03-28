@@ -7,4 +7,4 @@ Event from SQS
 Uses SES to send email
 
 ## Diagram
-![diagram][Mailerless.jpg]
+![diagram][./Mailerless.jpg]
